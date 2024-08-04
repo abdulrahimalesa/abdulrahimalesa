@@ -20,4 +20,3 @@
 ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 ![Solr](https://upload.wikimedia.org/wikipedia/en/1/16/Apache_Solr_logo.svg)
 ![Vue.js](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)
-
